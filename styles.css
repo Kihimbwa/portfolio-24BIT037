@@ -62,7 +62,7 @@ main {
 }
 
 .card {
-    background: white;
+    background: gray;
     padding: 1rem;
     border-radius: 0.5rem;
 }
